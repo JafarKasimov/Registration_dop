@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Registration_dop</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="registration">Registration</string>
+    <string name="your_account">your account</string>
+    <string name="create">Create</string>
+    <string name="already_is_remember">Already is remember?</string>
+    <string name="log_in">Log in</string>
+    <string name="lets_see">lets see</string>
+    <string name="look_at_your_data">Look at your data</string>
+    <string name="your_name">Your name:</string>
+    <string name="your_password">Your password:</string>
+</resources>
